@@ -4,8 +4,6 @@
 
 theme = "hugo-story"
 
-path = "github.com/caressofsteel/hugo-story"
-
 ## -----------------------------------------------
 ## Publish
 ## -----------------------------------------------
@@ -27,7 +25,7 @@ publishDir = "public"
 ## -----------------------------------------------
 
 disableKinds = ["taxonomy", "section"]
-# googleAnalytics = "your-google-analytics-id"
+# googleAnalytics = "G-XXXXXXXXXX"
 
 ## -----------------------------------------------
 ## Site Parameters
@@ -36,3 +34,5 @@ disableKinds = ["taxonomy", "section"]
 [Params]
 
 [Params.social]
+
+[Params.asset]

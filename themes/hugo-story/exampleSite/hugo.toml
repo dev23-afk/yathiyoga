@@ -4,8 +4,6 @@
 
 theme = "hugo-story"
 
-path = "github.com/caressofsteel/hugo-story"
-
 ## -----------------------------------------------
 ## Publish
 ## -----------------------------------------------
